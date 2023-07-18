@@ -1,0 +1,29 @@
+<OssGuiProject product="ASN.1 Studio" compiler="ASN.1/C++" compilerVersionLastComp="" productVersion="10.4" compilerVersionLastUsed="7.2" version="2.0" compilerSettingsChangeTime="2023-07-18T09:37:00">
+ <Asn1Files>
+  <File isAsn1Std="true">3GPP/29-series/SBCAP/v16.0.0/sbcap.asn</File>
+ </Asn1Files>
+ <CompilerSettings>
+  <Setting present="true" name="disablCAGLMessagesCheckBox"/>
+  <Setting present="true" name="cppToedRadioButton"/>
+  <Setting present="false" name="modListRadioButton"/>
+  <Setting present="false" name="encOnlyRadioButton"/>
+  <Setting present="false" name="enablePartialDecodeRadioButton"/>
+ </CompilerSettings>
+ <EncodingFiles/>
+ <GeneratedFiles/>
+ <Settings>
+  <Setting present="false" name="-noRelaxedMode"/>
+  <Setting name="-root"/>
+  <Setting present="false" name="-relaySafe"/>
+  <Setting name="STRICT_PER_ENCODING_OF_DEFAULT_VALUES"/>
+  <Setting name="AUTOMATIC_ENCDEC"/>
+  <Setting name="OSS_AUTO_ENCODE_WITHOUT_CHECKING_CONSTRAINT"/>
+  <Setting name="DEBUGPDU"/>
+  <Setting name="OSS_PRINT_TYPE_INFO"/>
+  <Setting name="OSS_PRINT_OFFSET"/>
+  <Setting name="OSS_PRINT_COMMENTS"/>
+  <Setting name="OSS_HEXBYTES"/>
+  <Setting name="-per"/>
+ </Settings>
+ <UserFiles/>
+</OssGuiProject>
